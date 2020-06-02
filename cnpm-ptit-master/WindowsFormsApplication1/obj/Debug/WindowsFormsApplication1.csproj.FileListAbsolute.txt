@@ -1,0 +1,19 @@
+F:\ChuyenDeCNPM\DUONGPHUONGDUNG_NGUYENHUUCANH\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\ChuyenDeCNPM\DUONGPHUONGDUNG_NGUYENHUUCANH\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\ChuyenDeCNPM\DUONGPHUONGDUNG_NGUYENHUUCANH\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\ChuyenDeCNPM\DUONGPHUONGDUNG_NGUYENHUUCANH\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\ChuyenDeCNPM\DUONGPHUONGDUNG_NGUYENHUUCANH\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\ChuyenDeCNPM\DUONGPHUONGDUNG_NGUYENHUUCANH\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\ChuyenDeCNPM\DUONGPHUONGDUNG_NGUYENHUUCANH\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\ChuyenDeCNPM\DUONGPHUONGDUNG_NGUYENHUUCANH\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\ChuyenDeCNPM\DUONGPHUONGDUNG_NGUYENHUUCANH\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Học Online\Đồ án Thầy Thư\cnpm-ptit-master\cnpm-ptit-master\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Học Online\Đồ án Thầy Thư\cnpm-ptit-master\cnpm-ptit-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Học Online\Đồ án Thầy Thư\cnpm-ptit-master\cnpm-ptit-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Học Online\Đồ án Thầy Thư\cnpm-ptit-master\cnpm-ptit-master\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Học Online\Đồ án Thầy Thư\cnpm-ptit-master\cnpm-ptit-master\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Học Online\Đồ án Thầy Thư\cnpm-ptit-master\cnpm-ptit-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Học Online\Đồ án Thầy Thư\cnpm-ptit-master\cnpm-ptit-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Học Online\Đồ án Thầy Thư\cnpm-ptit-master\cnpm-ptit-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Học Online\Đồ án Thầy Thư\cnpm-ptit-master\cnpm-ptit-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Học Online\Đồ án Thầy Thư\cnpm-ptit-master\cnpm-ptit-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
